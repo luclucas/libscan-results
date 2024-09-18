@@ -1,0 +1,10 @@
+lib: com.actionbarsherlock.actionbarsherlock.4.4.0
+similarity: 1.0
+
+lib: javax.inject-1
+similarity: 1.0
+
+lib: slf4j-android-1.6.1-RC1
+similarity: 1.0
+
+time: 29s

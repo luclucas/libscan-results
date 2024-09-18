@@ -1,0 +1,25 @@
+lib: com.mikepenz.community-material-typeface.1.5.54.1
+similarity: 1.0
+
+lib: com.mikepenz.fontawesome-typeface.4.4.0.1 and com.mikepenz.fontawesome-typeface.4.6.0.1
+similarity: 1.0
+
+lib: com.mikepenz.google-material-typeface.2.2.0.1.original and com.mikepenz.google-material-typeface.1.2.0.1
+similarity: 1.0
+
+lib: com.mikepenz.material-design-iconic-typeface.2.2.0.1
+similarity: 1.0
+
+lib: com.mikepenz.octicons-typeface.3.0.0.1
+similarity: 1.0
+
+lib: jsr305-2.0.1 and jsr305-3.0.0
+similarity: 1.0
+
+lib: javax.inject-1
+similarity: 1.0
+
+lib: annotations-java5-15.0
+similarity: 0.922077922077922
+
+time: 85s

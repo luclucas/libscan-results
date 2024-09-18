@@ -1,0 +1,10 @@
+lib: android-integration-3.2.1
+similarity: 0.8991825613079019
+
+lib: javax.inject-1
+similarity: 1.0
+
+lib: annotations-java5-15.0
+similarity: 1.0
+
+time: 29s

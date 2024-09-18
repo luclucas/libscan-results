@@ -1,0 +1,7 @@
+lib: com.joanzapata.iconify.android-iconify-material-community.2.2.1
+similarity: 1.0
+
+lib: javax.inject-1
+similarity: 1.0
+
+time: 40s

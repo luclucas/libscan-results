@@ -1,0 +1,7 @@
+lib: jsr305-2.0.1 and jsr305-3.0.0
+similarity: 1.0
+
+lib: javax.inject-1
+similarity: 1.0
+
+time: 29s
